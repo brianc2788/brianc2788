@@ -6,10 +6,11 @@
 #### Above also includes dabbling in things like Machine Learning and TensorFlow.
 #### Pentesting! Python is a great lang for the above, and primarily what I use when exploring these concepts,
 #### but I originally began developing and scripting in python for pentesting.
-### Have a wide-range of experience in many fields/interests, albeit, said experience is quite shallow.
+## Have a wide-range of experience in many fields/interests, albeit, said experience is quite shallow.
 #### Currently having a great summer coding. Doing activities almost all day, every day.
 ## Thanks for checking out my profile and feel free to contact for any reason, I love talking shop.
 # Have a great night, all. Carpe noctum.
+#### All made out of headings... just wonderful.
 
 
 #### Original README.md content - provided by GitHub.
