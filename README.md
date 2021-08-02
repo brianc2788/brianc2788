@@ -1,3 +1,7 @@
+<!--- Hmm, Yes. I'm fairly certain these symbols mean something... --->
+<!---
+Something wonderful, indeed.
+--->
 # Computer science dropout with everything to offer. #
 ## ***Contact:*** [e-mail](mailto:brianc2788@gmail.com) ##
 Computer Science, Programming. C/CPP - coding these langs for years; learned the fundamentals of programming and exposure to various paradigms.
