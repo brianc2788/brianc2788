@@ -1,5 +1,5 @@
 # Computer science dropout with everything to offer. #
-## Contact: brianc2788@gmail.com ##
+## ***Contact:*** [e-mail](mailto:brianc2788@gmail.com) ##
 Computer Science, Programming. C/CPP - coding these langs for years; learned the fundamentals of programming and exposure to various paradigms.
 Currently interested in (seems like everything...):
 Relational DB Management / Data Science - These two things have some similar syntax and underlying ideas in common with one-another, imo.
