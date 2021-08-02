@@ -3,11 +3,11 @@
 Computer Science, Programming. C/CPP - coding these langs for years; learned the fundamentals of programming and exposure to various paradigms.
 Currently interested in (seems like everything...):
 Relational DB Management / Data Science - These two things have some similar syntax and underlying ideas in common with one-another, imo.
-#### Above also includes dabbling in things like Machine Learning and TensorFlow. ####
-#### Pentesting! Python is a great lang for the above, and primarily what I use when exploring these concepts, ####
-#### but I originally began developing and scripting in python for pentesting. ####
-### Have a wide-range of experience in many fields/interests, albeit, said experience is quite shallow. ###
-#### Currently having a great summer coding. Doing activities almost all day, every day. ####
+### Above also includes dabbling in things like Machine Learning and TensorFlow. ###
+Pentesting! Python is a great lang for the above, and primarily what I use when exploring these concepts,
+but I originally began developing and scripting in python for pentesting.
+Have a wide-range of experience in many fields/interests, albeit, said experience is quite shallow.
+Currently having a great summer coding. Doing activities almost all day, every day.
 ## Thanks for checking out my profile and feel free to contact for any reason, I love talking shop. ##
 # Have a great night, all. Carpe noctum. #
 <!--- I dnt knw wht i am doing --->
