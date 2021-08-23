@@ -7,9 +7,10 @@
 - data science
 - embedded systems
 - pentesting/security auditing
-- et al.
+- kernel modules
 #### My languages ####
 - c/c++
+- i really like pure c/c17!
 - python3
 - bash
 - some sql
