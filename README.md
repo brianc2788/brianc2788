@@ -3,7 +3,7 @@
 ## ***Contact:*** [e-mail me](mailto:brianc2788@gmail.com) ##
 ^^questions, concerns
 #### Interests include, but are not limited to: ####
-- cryptography
+- cryptography, stenography, etc.
 - data science
 - embedded systems
 - pentesting/security auditing
