@@ -1,4 +1,4 @@
-<!--- Disclaimer: I'm terrible with MD. --->
+<!--- Disclaimer: newbie MD user. --->
 # Github -- user5260 #
 ## ***Contact:*** [e-mail me](mailto:brianc2788@gmail.com) ##
 ^^questions, concerns
