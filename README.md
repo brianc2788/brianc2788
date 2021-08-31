@@ -6,8 +6,8 @@
 - cryptography, stenography, etc.
 - data science
 - embedded systems
-- pentesting/security auditing
-- kernel modules
+- pentesting/security auditing,redteamblueteam
+- kernel space, ring 0
 #### My languages ####
 - c/c++
 - i really like pure c/c17!
