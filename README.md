@@ -1,6 +1,8 @@
 <!--- Disclaimer: newbie MD user. --->
 # Github -- user5260 #
-disclaimer/beware: i use this account to share & backup all of my code, as well as test git/github.
+disclaimer/beware: i use this account to share & backup all of my code, as well as test git/github.  
+there may be things that appear throughout that seem to have to rhyme or reason, but rest assured,  
+they (probably) did at some point. Thanks for your understanding.
 ## ***Contact:*** [e-mail me](mailto:brianc2788@gmail.com) ##
 ^^questions, concerns
 #### Interests include, but are not limited to: ####
