@@ -1,5 +1,6 @@
 <!--- Disclaimer: newbie MD user. --->
 # Github -- user5260 #
+disclaimer/beware: i use this account to share & backup all of my code, as well as test git/github.
 ## ***Contact:*** [e-mail me](mailto:brianc2788@gmail.com) ##
 ^^questions, concerns
 #### Interests include, but are not limited to: ####
