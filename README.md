@@ -22,6 +22,7 @@ just a github account I use to back-up any/all work I'd like to share.
 - post exploitation
 - metasploit, armitage
 - burpsuite (i only have community ed)
+- mostly offensive-oriented
 - always learning....
 
 #### My languages (programming and/or scripting langs) ####
