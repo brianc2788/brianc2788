@@ -1,20 +1,35 @@
 <!--- Disclaimer: newbie MD user. --->
 # Github -- user5260 #
-disclaimer/beware: i use this account to share & backup all of my code, as well as test git/github.  
-there may be things that appear throughout that seem to have no rhyme or reason, but rest assured,  
-they (probably) did at some point. Thanks for your understanding.
+just a github account I use to back-up any/all work I'd like to share.
 ## ***Contact:*** [e-mail me](mailto:brianc2788@gmail.com) ##
-^^questions, concerns
+^^questions, concerns^^
 #### Interests include, but are not limited to: ####
 - cryptography, stenography, etc.
 - data science
 - embedded systems
-- pentesting/security auditing,redteamblueteam
-- kernel space, ring 0
-#### My languages ####
-- c/c++
+- pentesting/security auditing,redteamblueteamctf
+- kernel space, ring 0! hehe.
+
+#### System & Network Administration ####
+- automating system & network tasks
+- Very good with many tools on linux, including the core gnu utilities
+- windows admin, powershell
+- mac os admin
+
+#### I love pentesting/hacking! ####
+Currently reading a bunch of books within these areas; including but not limited to:
+- tcp/ip protocol suite/stack
+- attacking network protocols
+- info gathering, portscanning
+- infosec, opsec, web security
+- post exploitation
+- metasploit, armitage
+- burpsuite (i only have community ed)
+
+#### My languages (programming and/or scripting langs) ####
+- c/c++ (some dev libraries i've used for projects include boost, sockets, SDL2, opengl 1.3, & more)
 - i really like pure c/c17!
-- python3
+- python3 (i have varying proficiency with tons of modules; including numpy, pandas, flask&django, scapy, tshark/pyshark, bs4, selenium, pyperclip, Qt5Py, so many...)
 - bash
 - some sql
 - some html
