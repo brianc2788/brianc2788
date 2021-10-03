@@ -15,7 +15,6 @@ just a github account I use to back-up any/all work I'd like to share.
 -bash,zsh,xonsh,pwsh,dash/sh,...
 
 #### Pentesting! Hollywood-style Hacking! ####
-Currently reading a bunch of books within these areas; including but not limited to:
 - tcp/ip protocol suite/stack
 - attacking network protocols
 - info gathering, portscanning
@@ -23,6 +22,7 @@ Currently reading a bunch of books within these areas; including but not limited
 - post exploitation
 - metasploit, armitage
 - burpsuite (i only have community ed)
+- always learning....
 
 #### My languages (programming and/or scripting langs) ####
 - c/c++ (some dev libraries i've used for projects include boost, sockets, SDL2, opengl 1.3, & more)
