@@ -23,6 +23,7 @@ just a github account I use to back-up any/all work I'd like to share.
 - metasploit, armitage
 - burpsuite (i only have community ed)
 - mostly offensive-oriented
+- reverse shells are amazing
 - always learning....
 
 #### My languages (programming and/or scripting langs) ####
