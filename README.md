@@ -14,7 +14,7 @@ just a github account I use to back-up any/all work I'd like to share.
 #### I <3 SHELLS ####
 -bash,zsh,xonsh,pwsh,dash/sh,...
 
-#### I love pentesting/hacking! ####
+#### Pentesting! Hollywood-style Hacking! ####
 Currently reading a bunch of books within these areas; including but not limited to:
 - tcp/ip protocol suite/stack
 - attacking network protocols
