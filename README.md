@@ -3,12 +3,6 @@
 just a github account I use to back-up any/all work I'd like to share.
 ## ***Contact:*** [e-mail me](mailto:brianc2788@gmail.com) ##
 ^^questions, concerns^^
-#### Interests include, but are not limited to: ####
-- cryptography, stenography, etc.
-- data science
-- embedded systems
-- pentesting/security auditing,redteamblueteamctf
-- kernel space, ring 0! hehe.
 
 #### System & Network Administration ####
 - automating system & network tasks
@@ -31,11 +25,24 @@ Currently reading a bunch of books within these areas; including but not limited
 - i really like pure c/c17!
 - python3 (i have varying proficiency with tons of modules; including numpy, pandas, flask&django, scapy, tshark/pyshark, bs4, selenium, pyperclip, Qt5Py, so many...)
 - bash
-- some sql
-- some html
+- php
+- ruby
+- perl
+- awk
+- sql
+- html
+
 #### Education ####
 - electrical systems I & II (vocational training, 2 years)
 - computer science (some college)
+
+#### more interests... ####
+- cryptography, stenography, etc.
+- data science
+- embedded systems
+- pentesting/security auditing,redteamblueteamctf
+- kernel space, ring 0! hehe.
+
 <!---
 user5260/user5260 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
