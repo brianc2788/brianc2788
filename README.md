@@ -11,7 +11,8 @@ just a github account I use to back-up any/all work I'd like to share.
 - Very good with many tools on linux, including the core gnu utilities
 - windows admin, powershell
 - mac os admin
-- VERY strong shell / command line(CLI) user. (bash,zsh,xonsh), pwsh.
+#### I <3 SHELLS ####
+-bash,zsh,xonsh,pwsh,dash/sh,...
 
 #### I love pentesting/hacking! ####
 Currently reading a bunch of books within these areas; including but not limited to:
