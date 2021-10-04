@@ -1,6 +1,8 @@
 <!--- Disclaimer: newbie MD user. --->
 # Github -- user5260 #
-just a github account I use to back-up any/all work I'd like to share.
+just a github account I started using to learn git.
+starting to share more project and work as time gets on.
+welcome.
 ## ***Contact:*** [e-mail me](mailto:brianc2788@gmail.com) ##
 ^^questions, concerns^^
 
