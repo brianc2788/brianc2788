@@ -44,6 +44,19 @@ welcome.
 - electrical systems I & II (vocational training, 2 years)
 - computer science (some college)
 
+#### some of my computering her0es! ####
+- Bill Shockley and that guy that told his students, Hewlett & Packard, to start a company.
+- WWII & the rise of semiconductors. (fairchild semiconductors, the traitorous 8 and intel. birth of MOS)
+- Turing and those guys from Bletchley Park.
+- Xerox Parc (?)
+- Silicon Valley. Palo Alto.
+- at&t: brian kernighan, dennis ritchie, al aho, bjarne stoustrup, etc.
+- guido van rossum (python)
+- apple. jobs & wozniak (the woz!). avi t(?) forgot his name.
+- al sweigart (python expert & author)
+- lol what a mess of a list.
+- more...
+
 #### more interests... ####
 - cryptography, stenography, etc.
 - data science
