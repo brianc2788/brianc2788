@@ -54,6 +54,11 @@ welcome.
 - guido van rossum (python)
 - apple. jobs & wozniak (the woz!). avi t(?) forgot his name.
 - al sweigart (python expert & author)
+- cypherpunks
+- the guys at gnu and cygnus
+- free software foundation
+- richard stallman !!
+- adam back (you-know-who! bitcoin! also blockchain ceo)
 - lol what a mess of a list.
 - more...
 
