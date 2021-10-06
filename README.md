@@ -30,7 +30,7 @@ welcome.
 
 #### My languages (programming and/or scripting langs) ####
 - c/c++ (some dev libraries i've used for projects include boost, sockets, SDL2, opengl 1.3, & more)
-- i really like pure c/c17!
+- i really like pure c/c17! (not good at it! just like it a lot!)
 - python3 (i have varying proficiency with tons of modules; including numpy, pandas, flask&django, scapy, tshark/pyshark, bs4, selenium, pyperclip, Qt5Py, so many...)
 - bash
 - php
