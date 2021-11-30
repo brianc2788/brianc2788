@@ -16,8 +16,9 @@ welcome.
 #### I <3 SHELLS ####
 -bash,zsh,xonsh,pwsh,dash/sh,...
 
-#### Pentesting! Hollywood-style Hacking! ####
-- tcp/ip protocol suite/stack
+#### Pentesting! ####
+- wifi hacking & encryption
+- tcp/ip protocol suite
 - attacking network protocols
 - info gathering, portscanning
 - infosec, opsec, web security
@@ -45,6 +46,12 @@ welcome.
 - computer science (some college)
 
 #### some of my computering her0es! ####
+- Linus torvald
+- chuck peddle, creator of the MOS 6502 8-bit processor.
+- jack tramiel & the legendary commodore business machines.
+- jack tramiel made home computers affordable & possible. Many of the greatest programmers and developers got their start on the c64 with BASIC.
+- steve jobs was just a tyrant who wanted to own his customers; jack tramiel is the real hero who we should all be so thankful for.
+-  ^^ Commodore - for the masses, not the classes! ^^ God bless!
 - Bill Shockley and that guy that told his students, Hewlett & Packard, to start a company.
 - WWII & the rise of semiconductors. (fairchild semiconductors, the traitorous 8 and intel. birth of MOS)
 - Turing and those guys from Bletchley Park.
