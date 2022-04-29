@@ -23,13 +23,15 @@ People that I admire in a range of computer-related industries:
 - Gary Kildall (Creator of CP/M & founder of Digital Research)
 - Stewart Chiefet (The Computer Chronicles TV show host and creator of 'The Cheiffet 
 - Steve Wozniak (Co-Founder of Apple Computers and genius)
-- That Dutch guy that created Python
-- Chuck Peddle (6502 Microprocessor family from MOS Technology)
-- Bill Shockley & those two guys who did all the work for him. (Father of silicon tech & silicon valley. WWII Counter-Intelligence)
 - Linus Torvalds (Linux Kernel)
+- Richard M. Stallman (Gnu, Free Software movement, and geniunely awesome guy)
 - Fredericco Faggin (Created one of Intel's first highly-successful microprocessor (only microcontrollers until then?), the Intel 8080)
 - Alan Turing (*Clearly, this list is in no order.* Turing Machine, contributions to math and foundational CS)
+- Guido van Rossum (Python)
+- Chuck Peddle (6502 Microprocessor family from MOS Technology)
+- Bill Shockley & those two guys who did all the work for him. (Father of silicon tech & silicon valley. WWII Counter-Intelligence)
 - Tim Berners-Lee (HTML & the World Wide Web. W3C - WWW Consortium.)
+- Adam Back (Blockstream, original Cypherpunk, HashCash, other reasons...)
 - People from Xerox PARC who created GUIs & Windows
 - More - So many more. Lol.
 
