@@ -14,7 +14,7 @@ not everyone I list will be constrained by the title 'computer scientist'.
 *Also, this is not necessarily in any order.*
 *What's more, the status of people listed will range from 'heroic' to 'oh yeah, that person.'*
 ---
-People that I admire in a range of computer-related industries:
+People that I admire [or find interesting] in a range of computer-related industries:
 - Brian Kernighan & Dennis Ritchie (for reasons including, but not limited to, the C Programming Language)
 - Ada Lovelace (Credited as the first 'programmer.' More legit than Grace H., imo)
 - Bjarne Stoustrup (C w/Classes, AKA C++)
@@ -25,11 +25,12 @@ People that I admire in a range of computer-related industries:
 - Steve Wozniak (Co-Founder of Apple Computers and genius)
 - Linus Torvalds (Linux Kernel)
 - Richard M. Stallman (Gnu, Free Software movement, and geniunely awesome guy)
-- Fredericco Faggin (Created one of Intel's first highly-successful microprocessor (only microcontrollers until then?), the Intel 8080)
+- Fredericco Faggin (Intel 4004)
 - Alan Turing (*Clearly, this list is in no order.* Turing Machine, contributions to math and foundational CS)
 - Guido van Rossum (Python)
 - Chuck Peddle (6502 Microprocessor family from MOS Technology)
 - Bill Shockley & those two guys who did all the work for him. (Father of silicon tech & silicon valley. WWII Counter-Intelligence)
+- The Traitorous Eight (Fairchild Semiconductor)
 - Tim Berners-Lee (HTML & the World Wide Web. W3C - WWW Consortium.)
 - Adam Back (Blockstream, original Cypherpunk, HashCash, other reasons...)
 - People from Xerox PARC who created GUIs & Windows
