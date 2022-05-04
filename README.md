@@ -15,8 +15,8 @@ not everyone I list will be constrained by the title 'computer scientist'.
 *What's more, the status of people listed will range from 'heroic' to 'oh yeah, that person.'*
 ---
 People that I admire [or find interesting] in a range of computer-related industries:
-- Brian Kernighan & Dennis Ritchie (for reasons including, but not limited to, the C Programming Language)
-- Ada Lovelace (Credited as the first 'programmer.' More legit than Grace H., imo)
+- Brian Kernighan (The "K" in "K&R", "awk", etc., Co-author of "The C PL", "The Go PL", etc.)
+- Dennis Ritchie (The "R" in "K&R", Creator of C (the programming language), etc.)
 - Bjarne Stoustrup (C w/Classes, AKA C++)
 - Ken Thompson (Creator of Unix & Co-Creator of the Go Programming Language)
 - People from AT&T during the golden age.
@@ -28,6 +28,7 @@ People that I admire [or find interesting] in a range of computer-related indust
 - Fredericco Faggin (Intel 4004)
 - Alan Turing (*Clearly, this list is in no order.* Turing Machine, contributions to math and foundational CS)
 - Guido van Rossum (Python)
+- Ada Lovelace (Credited as the first 'programmer.')
 - Chuck Peddle (6502 Microprocessor family from MOS Technology)
 - Bill Shockley & those two guys who did all the work for him. (Father of silicon tech & silicon valley. WWII Counter-Intelligence)
 - The Traitorous Eight (Fairchild Semiconductor)
