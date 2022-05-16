@@ -6,7 +6,7 @@ http://github.com/user5260
 My repositories are mostly for personal use (*share content, explore github, etc.*)<br>
 and are therefore subject to change.<br>
 
-If you'd like to offer critisisms or advice, refer to my contact information below.<br>
+If you'd like to offer criticisms or advice, refer to my contact information below.<br>
 
 ---
 ## Legal ##
