@@ -1,18 +1,14 @@
 <!---
 README.md
 http://github.com/user5260 
+
+i hate markdown lol.
  --->
 ## user5260 ##
 mostly autoeducated (self taught) programmer.
 If you can offer me any critisisms and/or advice, please contact.
 
-## Computer History ##  
----
-I couldn't really call this list 'CS Heroes' or anything like that;
-not everyone I list will be constrained by the title 'computer scientist'.
-***Disclaimer*** *Undoubtedly, I'll forget to mention some, even great individuals.*
-*Also, this is not necessarily in any order.*
-*What's more, the status of people listed will range from 'heroic' to 'oh yeah, that person.'*
+## A Coherent Ramble ##
 ---
 People that I admire [or find interesting] in a range of computer-related industries:
 - Brian Kernighan (The "K" in "K&R", "awk", etc., Co-author of "The C PL", "The Go PL", etc.)
@@ -38,7 +34,7 @@ People that I admire [or find interesting] in a range of computer-related indust
 - More - So many more. Lol.
 
 ---
-#### email ####
+#### Contact ####
 feel free to get in touch for any reason.
-[click to compose mail](mailto:brianc2788@gmail.com)
+[brianc2788@gmail.com](mailto:brianc2788@gmail.com)
 <!--- /README.md --->
