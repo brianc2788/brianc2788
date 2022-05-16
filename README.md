@@ -3,7 +3,7 @@ README.md
 http://github.com/user5260
  --->
 ## Github ##
-My repositories are mostly for personal use (*share content, explore github, etc.*)<br>
+My repositories are mostly for personal use<br>
 and are therefore subject to change.<br>
 
 If you'd like to offer criticisms or advice, refer to my contact information below.<br>
