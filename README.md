@@ -3,10 +3,8 @@ README.md
 http://github.com/user5260
  --->
 ## Github ##
-My repositories are mostly for personal use<br>
-and are therefore subject to change.<br>
 
-If you'd like to offer criticisms or advice, refer to my contact information below.<br>
+Questions, concerns, criticisms, please refer to my contact information.<br>
 
 ---
 ## Legal ##
@@ -28,6 +26,5 @@ limitations under the License.
 
 ---
 ## Contact ##
-Feel free to get in touch for any reason.<br>
-[brianc2788@gmail.com](mailto:brianc2788@gmail.com)<br>
+[Email me](mailto:brianc2788@gmail.com)<br>
 <!--- /README.md --->
