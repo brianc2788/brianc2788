@@ -1,6 +1,7 @@
 <!---
 README.md
-http://github.com/user5260
+http://github.com/brianc2788
+brianc2788@gmail.com
  --->
 ## Github ##
 
