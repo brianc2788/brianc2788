@@ -6,7 +6,7 @@ brianc2788@gmail.com
  --->
 ## Homepage: ##
 
-Visit my homepage at (http://brianc2788.github.io "brianc2788, hosted on Github Pages.").
+Visit my homepage at [http://brianc2788.github.io](http://brianc2788.github.io "brianc2788, hosted on Github Pages.").
 
 ## Github ##
 
