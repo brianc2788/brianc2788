@@ -1,8 +1,13 @@
 <!---
 README.md
-http://github.com/brianc2788
+http://brianc2788.github.io
+http://www.github.com/brianc2788/brianc2788
 brianc2788@gmail.com
  --->
+## Homepage: ##
+
+Visit my homepage at (http://brianc2788.github.io "brianc2788, hosted on Github Pages.").
+
 ## Github ##
 
 Questions, concerns, criticisms, please refer to my contact information.<br>
@@ -12,7 +17,7 @@ Questions, concerns, criticisms, please refer to my contact information.<br>
 ***The repositories, files, and all content associated and/or uploaded<br>
 with this Github account are subject to the following:***
 
-&COPY; Copyright 2022 - Some rights reserved
+&COPY; Copyright 2021-2022 - Some rights reserved
 
 Licensed under the Apache License, Version 2.0 (the "License");
 You may obtain a copy of the License at
