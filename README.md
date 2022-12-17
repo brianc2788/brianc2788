@@ -17,7 +17,7 @@ Questions, concerns, criticisms, please refer to my contact information.<br>
 ***The repositories, files, and all content associated and/or uploaded<br>
 with this Github account are subject to the following:***
 
-&COPY; Copyright 2021-2022 - Some rights reserved
+&COPY; Copyright 2021-2023 - Some rights reserved
 
 Licensed under the Apache License, Version 2.0 (the "License");
 You may obtain a copy of the License at
